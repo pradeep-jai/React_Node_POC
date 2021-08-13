@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 85px;
+}
+
+.dropdown-item:hover {
+  background-color: gainsboro;
+}
+
+.dropdown button {
+  padding: 8px 34px;
+}
